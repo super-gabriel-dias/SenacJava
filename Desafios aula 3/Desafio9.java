@@ -1,6 +1,5 @@
 package aula03_desafio;
 
-
 import java.util.Scanner;
 
 public class Desafio9 {
